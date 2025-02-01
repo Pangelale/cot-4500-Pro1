@@ -2,7 +2,7 @@
 Phuong Trinh Le
 
 Project Purpose:
-Implement the algorithms in Python from chapter 2.
+Implement the algorithms in Python from Chapter 2.
 
 Setup/Compile Instruction:
 In the terminal, you would need to navigate to the project directory.
